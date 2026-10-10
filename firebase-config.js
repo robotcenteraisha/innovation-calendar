@@ -1,3 +1,4 @@
+
 window.FIREBASE_CONFIG = {
   apiKey: "AIzaSyBtzC56CgljMj_nSHgaDmTPCZJSOu28Bxc",
   authDomain: "dhofar-innovation-calendar.firebaseapp.com",
