@@ -1,5 +1,5 @@
 window.FIREBASE_CONFIG = {
-  apiKey: "AIzaSyBtcZ56CgIjMj_nSHgaDmTPCZJSOu28Bxc",
+  apiKey: "AIzaSyBtzC56CgljMj_nSHgaDmTPCZJSOu28Bxc",
   authDomain: "dhofar-innovation-calendar.firebaseapp.com",
   projectId: "dhofar-innovation-calendar",
   storageBucket: "dhofar-innovation-calendar.firebasestorage.app",
